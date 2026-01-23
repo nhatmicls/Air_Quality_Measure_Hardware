@@ -1,0 +1,6 @@
+# Altium Designer
+History/
+__Previews/
+Project Logs*/
+*.DipTrace
+*.zip
